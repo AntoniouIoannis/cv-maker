@@ -84,7 +84,7 @@ body, html {
 .slider{
     width: 100%;
     height: 100%;
-    background-image: url(dark-final-slider-logos.jpg);
+    background-image: url(https://github.com/AntoniouIoannis/cv-maker/blob/main/dark-final-slider-logos.jpg?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -144,7 +144,7 @@ body, html {
 .slider-in-main {
     width: 100%;
     height: 80%;
-    background-image: url(handshake1280x720.jpg);
+    background-image: url(https://github.com/AntoniouIoannis/cv-maker/blob/main/handshake1280x720.jpg?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
